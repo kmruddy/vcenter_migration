@@ -2,6 +2,8 @@
 
 ## Team 6: Migrate2vcsa
 
+![img2017_08_29 09_29 am](https://user-images.githubusercontent.com/4688785/29832610-a6351862-8c9d-11e7-98e4-be5914516221.png)
+
 ### Team Members: 
 - Kyle Ruddy
 - Chris Nakagaki
