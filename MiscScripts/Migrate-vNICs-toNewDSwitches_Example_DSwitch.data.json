@@ -1,0 +1,19 @@
+{
+	"__version": "1.0",
+	"__comments": "Settings specific migrate vNICs between DSwitches using custom attributes vNIC*",
+	"vcName": "vcenter.domain.com",
+	"Datacenter": "dc1",
+	"Guests": [
+	],
+	"DestinationDSwitch": "DSwitch.data",
+	"DPortGroups": [
+		{
+			"sourcePortgroup": "guests.network.101",
+			"destinationPortgroup": "guests.network.101"
+		},
+		{
+			"sourcePortgroup": "guests.network.200",
+			"destinationPortgroup": "guests.network.200"
+		}		
+	]
+}
